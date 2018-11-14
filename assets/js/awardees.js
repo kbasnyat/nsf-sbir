@@ -58,7 +58,8 @@ console.log('loaded')
       .replace(/[^\w\-]+/g, "")
       .replace(/\-\-+/g, "-")
       .replace(/^-+/, "")
-      .replace(/-+$/, "");
+      .replace(/-+$/, "")
+      .replace(/\&/g, "");
   }
 
   function getQueryVariable(variable) {
