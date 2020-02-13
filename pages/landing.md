@@ -7,7 +7,7 @@ hero:
 
   image: /assets/img/landing/ogilvy.jpg
   callout:
-    alt: We invest up to <br>$1.5 million in <br> seed funding.
+    alt: We invest up to <br>$1.75 million in <br> seed funding.
     text: And take zero equity.
   button:
     href: /apply/
@@ -65,7 +65,7 @@ SBIR &#124; STTR
 
 <div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
 <hr class="divider divider-left">
-<p class="text-large"><strong>We support research and development of groundbreaking, high-impact, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.</strong></p>
+<p class="text-large"><strong>We support research and development of  deep technologies - those that are based on discoveries in fundamental science and engineering. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.</strong></p>
 
 <a class="usa-button usa-button-secondary usa-button-big button-arrow" href="{{ site.baseurl }}/awardees/phase-1/">
 View current awardees
@@ -93,7 +93,7 @@ Learn about our impact
 
 Our program fosters and encourages participation in innovation and entrepreneurship by women and people of color as well as first-time entrepreneurs from all 50 states and U.S. territories.
 
-<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/apply/">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/showcase/">
 What we look for
 </a>
 

@@ -16,7 +16,9 @@ timeline:
       - step-5
       - step-6
       - step-7
-  - title: <span style="color:red">Submission window closes</span>
+  - title: <span style="color:red"><br>Submission window closes<br><br><br><br></span>
+    description: There are four submission windows for Phase I proposals in 2020:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
+    inactive_description: There are four submission windows for Phase I proposals in 2020:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
   - title: 1-3 months after<br> the window closes
     description: Applications undergo merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
@@ -24,8 +26,8 @@ timeline:
     description: We'll notify you whether your proposal is accepted or declined.
     inactive_description: We'll notify you whether your proposal is accepted or declined.
   - title: 5-6 months after<br> the window closes
-    description: If your proposal is accepted, you'll receive funding of up to $225,000.
-    inactive_description: If your proposal is accepted, you'll receive funding of up to $225,000.
+    description: If your proposal is accepted, you'll receive funding of up to $256,000.
+    inactive_description: If your proposal is accepted, you'll receive funding of up to $256,000.
 ---
 <head>
 <script type="text/javascript">
